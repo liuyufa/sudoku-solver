@@ -1,12 +1,12 @@
 sudoku-solver
 =============
 
-# compile
+## compile
 ```
 make
 ```
 
-# usage
+## usage
 ```
 ./sudoku test_case/xhard
 ```

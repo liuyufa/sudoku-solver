@@ -1,6 +1,12 @@
 sudoku-solver
 =============
 
-## Usage
-  make
-  ./sudoku test_case/xhard
+# compile
+```
+make
+```
+
+# usage
+```
+./sudoku test_case/xhard
+```
